@@ -28,6 +28,11 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Tempero Drag**](https://www.youtube.com/channel/UCZdJE8KpuFm6NRafHTEIC-g): vídeos sobre história e filosofia apresentados por uma drag queen
 * [**Maria Homem**](https://www.youtube.com/channel/UCeT74ntD25ACU_fVfUWZzsg): vídeos sobre psicanálise, comunicação e filosofia
 * [**Nunca vi 1 cientista**](https://www.youtube.com/nuncaviumcientista): conteúdos audiovisuais curtos sobre ciência e sua importância
+* [**Buenas Ideias**](https://www.youtube.com/channel/UCQRPDZMSwXFEDS67uc7kIdg): vídeos divertidos sobre História do Brasil
+* [**Ciência Todo Dia**](https://www.youtube.com/channel/UCn9Erjy00mpnWeLnRqhsA1g): vídeos focados em diversas áreas da ciência, explicadas de uma forma simples
+* [**Computação Sem Caô**](https://www.youtube.com/channel/UCaBOUYQGTZgIdMTXtZTosRQ): ciência da computação em doses curtas e descomplicadas
+* [**mimimidias**](https://www.youtube.com/channel/UCg0CfiR_iKjBOYgeHps17BA): vídeos sobre design, comunicação e mídias
+* [**Peixe Babel**](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw): vídeos sobre ciência da computação produzidos por mulheres
 
 ### Podcasts e áudio
 
@@ -40,11 +45,16 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Naruhodo**](https://www.b9.com.br/shows/naruhodo/): episódios curtos responendo perguntas simples e diretas
 * [**Oxigênio**](http://oxigenio.comciencia.br/): podcast de divulgação científica produzido pela equipe do ComCiência
 * [**Minuto da Química**](https://www.radio.ufscar.br/podcastfilter/quimica/): episódios de poucos minutos com curiosidades da química, feito pela Rádio UFSCar
+* [**Clube da Música Autoral**](https://www.clubedamusicaautoral.com.br/): podcast focado em contar a história da música
+* [**Sertões: Histórias de Canudos**](https://radiobatuta.com.br/especiais/sertoes-historias-de-canudos/): especial em áudio produzido pelo Instituto Moreira Salles sobre a Guerra de Canudos
+* [**A Trivialista**](https://halfdeaf.com.br/shows/a-trivialista/): entrevistas com historiadores sobre suas pesquisas, sempre com assuntos fora do senso comum
+* [**Dragões de Garagem**](http://dragoesdegaragem.com/): podcasts sobre as diversas áreas da ciência
 
-### Mídias sociais/interativas
+### Mídias não convencionais
 
 * [**A Plot from the Stars**](https://gabtoschi.itch.io/plotfromthestars): jogo educativo para ensino de matemática básica
 * [**Ludo Educativo**](https://www.ludoeducativo.com.br/pt/): portal de jogos educativos para crianças
+* [**Cientirinhas**](http://dragoesdegaragem.com/cientirinhas/): tirinhas divertidas sobre aspectos científicos
 
 ### Eventos e ações presenciais
 
@@ -69,12 +79,18 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Numberphile**](https://www.youtube.com/user/numberphile): vídeos sobre matemática com divulgadores científicos britânicos (inglês)
 * [**Computerphile**](https://www.youtube.com/user/Computerphile): braço sobre ciência da computação e tecnologia do Numberphile (inglês)
 * [**Veritasium**](https://www.youtube.com/user/1veritasium): vídeos sobre ciência e educação (inglês)
+* [**12tone**](https://www.youtube.com/channel/UCTUtqcDkzw7bisadh6AOx5w): vídeos sobre teoria musical (inglês)
+* [**Kurzgesagt**](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q): animações sobre ciência (inglês)
+* [**Sally Le Page**](https://www.youtube.com/user/shedscience/): bióloga britânica que produz vídeos divertidos de divulgação científica (inglês)
+* [**standupmaths**](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A): uma grande mistura de humor stand-up e conteúdo matemático (inglês)
+* [**Up and Atom**](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw): vídeos com conceitos complexos de física e matemática explicados de forma simples (inglês)
+* [**Vox Earworm**](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5fyqfIwGjH2fYC5fFLfdwW4): série de vídeos do site Vox sobre a história da música e como ela foi construída pelos anos (inglês)
 
 ### Podcasts e áudio
 
-* 
+* [**99% Invisible**](https://99percentinvisible.org/): podcasts sobre design em todas as suas formas (inglês)
 
-### Mídias sociais/interativas
+### Mídias não convencionais
 
 * 
 
