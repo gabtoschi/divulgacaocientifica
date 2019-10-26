@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Introdução
 
-You can use the [editor on GitHub](https://github.com/gabtoschi/divulgacaocientifica/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Divulgação científica** é a ideia de falar e popularizar conteúdos científicos, de todas as ciências, para públicos não especializados e para toda a sociedade. Neste material, você vai encontrar uma série de iniciativas, brasileiras e internacionais, que produzem conteúdos e eventos voltados à popularizar diversos aspectos das ciências. Elas estarão divididas por tipo de iniciativa (textos, vídeos, podcasts, eventos, etc.) e trarão o nome, um link e algumas áreas sobre o qual falam.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Material organizado por Gabriel Toschi. Qualquer dúvida, pode bater um papo comigo no [Twitter](http://twitter.com/gabtoschi). Sugestões de iniciativas a serem incluídas podem ser mandadas por lá também. :)
 
-### Markdown
+## Iniciativas brasileiras
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Textos e artigos
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gabtoschi/divulgacaocientifica/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+| Iniciativa | Áreas |
+| --- | --- |
+| [aaa](aaa) | Área 1, Área 2 |
