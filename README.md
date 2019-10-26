@@ -33,6 +33,7 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Computação Sem Caô**](https://www.youtube.com/channel/UCaBOUYQGTZgIdMTXtZTosRQ): ciência da computação em doses curtas e descomplicadas
 * [**mimimidias**](https://www.youtube.com/channel/UCg0CfiR_iKjBOYgeHps17BA): vídeos sobre design, comunicação e mídias
 * [**Peixe Babel**](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw): vídeos sobre ciência da computação produzidos por mulheres
+* [**Nerdologia**](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA): uma visão da cultura pop por meio da ciência
 
 ### Podcasts e áudio
 
@@ -49,12 +50,15 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Sertões: Histórias de Canudos**](https://radiobatuta.com.br/especiais/sertoes-historias-de-canudos/): especial em áudio produzido pelo Instituto Moreira Salles sobre a Guerra de Canudos
 * [**A Trivialista**](https://halfdeaf.com.br/shows/a-trivialista/): entrevistas com historiadores sobre suas pesquisas, sempre com assuntos fora do senso comum
 * [**Dragões de Garagem**](http://dragoesdegaragem.com/): podcasts sobre as diversas áreas da ciência
+* [**Xadrez Verbal**](https://xadrezverbal.com/): episódios sobre história e política internacional
+* [**SpaceToday**](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A): conteúdos focados na divulgação da astronomia
 
 ### Mídias não convencionais
 
 * [**A Plot from the Stars**](https://gabtoschi.itch.io/plotfromthestars): jogo educativo para ensino de matemática básica
 * [**Ludo Educativo**](https://www.ludoeducativo.com.br/pt/): portal de jogos educativos para crianças
 * [**Cientirinhas**](http://dragoesdegaragem.com/cientirinhas/): tirinhas divertidas sobre aspectos científicos
+* [**#AstroThreadBR**](https://twitter.com/astrothreadbr): conteúdos de astronomia por meio de threads no Twitter
 
 ### Eventos e ações presenciais
 
@@ -66,10 +70,6 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Espaço Interativo de Ciências**](http://eic.ifsc.usp.br/): espaço localizado em São Carlos/SP e mantido pelo IFSC-USP, focado em divulgação científica
 
 ## Iniciativas internacionais
-
-### Textos e artigos
-
-* 
 
 ### Vídeos e filmes
 
@@ -85,14 +85,12 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**standupmaths**](https://www.youtube.com/channel/UCSju5G2aFaWMqn-_0YBtq5A): uma grande mistura de humor stand-up e conteúdo matemático (inglês)
 * [**Up and Atom**](https://www.youtube.com/channel/UCSIvk78tK2TiviLQn4fSHaw): vídeos com conceitos complexos de física e matemática explicados de forma simples (inglês)
 * [**Vox Earworm**](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5fyqfIwGjH2fYC5fFLfdwW4): série de vídeos do site Vox sobre a história da música e como ela foi construída pelos anos (inglês)
+* [**Crash Course**](https://www.youtube.com/user/crashcourse): minicursos educativos sobre diferente áreas da ciência (inglês)
 
 ### Podcasts e áudio
 
 * [**99% Invisible**](https://99percentinvisible.org/): podcasts sobre design em todas as suas formas (inglês)
-
-### Mídias não convencionais
-
-* 
+* [**Science Vs**](https://gimletmedia.com/shows/science-vs): podcast de fact checking com foco em uso de ciência para desmistificar histórias falsas (inglês)
 
 ### Eventos e ações presenciais
 
