@@ -34,6 +34,7 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**mimimidias**](https://www.youtube.com/channel/UCg0CfiR_iKjBOYgeHps17BA): vídeos sobre design, comunicação e mídias
 * [**Peixe Babel**](https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw): vídeos sobre ciência da computação produzidos por mulheres
 * [**Nerdologia**](https://www.youtube.com/channel/UClu474HMt895mVxZdlIHXEA): uma visão da cultura pop por meio da ciência
+* [**SpaceToday**](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A): conteúdos focados na divulgação da astronomia
 
 ### Podcasts e áudio
 
@@ -51,7 +52,6 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**A Trivialista**](https://halfdeaf.com.br/shows/a-trivialista/): entrevistas com historiadores sobre suas pesquisas, sempre com assuntos fora do senso comum
 * [**Dragões de Garagem**](http://dragoesdegaragem.com/): podcasts sobre as diversas áreas da ciência
 * [**Xadrez Verbal**](https://xadrezverbal.com/): episódios sobre história e política internacional
-* [**SpaceToday**](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A): conteúdos focados na divulgação da astronomia
 * [**37 Graus**](https://37grauspodcast.com/): histórias reais contadas com um pé na ciência
 * [**Alô, Ciência?**](https://alociencia.com.br/): podcasts de temas científicos transversais
 
