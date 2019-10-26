@@ -45,13 +45,15 @@ Material organizado por **Gabriel Toschi**. Qualquer dúvida, pode bater um papo
 * [**Presidente da Semana**](https://open.spotify.com/show/7M32AKysUDCeEa3EjnvmQN?si=JKeedM7LQSmPLxbeAsKpjA): cada episódio conta a história de um dos presidentes do Brasil
 * [**Naruhodo**](https://www.b9.com.br/shows/naruhodo/): episódios curtos responendo perguntas simples e diretas
 * [**Oxigênio**](http://oxigenio.comciencia.br/): podcast de divulgação científica produzido pela equipe do ComCiência
-* [**Minuto da Química**](https://www.radio.ufscar.br/podcastfilter/quimica/): episódios de poucos minutos com curiosidades da química, feito pela Rádio UFSCar
+* [**Minuto da Química**](https://www.radio.ufscar.br/podcastfilter/quimica/): episódios de poucos minutos com curiosidades da química, produzido pela Rádio UFSCar
 * [**Clube da Música Autoral**](https://www.clubedamusicaautoral.com.br/): podcast focado em contar a história da música
 * [**Sertões: Histórias de Canudos**](https://radiobatuta.com.br/especiais/sertoes-historias-de-canudos/): especial em áudio produzido pelo Instituto Moreira Salles sobre a Guerra de Canudos
 * [**A Trivialista**](https://halfdeaf.com.br/shows/a-trivialista/): entrevistas com historiadores sobre suas pesquisas, sempre com assuntos fora do senso comum
 * [**Dragões de Garagem**](http://dragoesdegaragem.com/): podcasts sobre as diversas áreas da ciência
 * [**Xadrez Verbal**](https://xadrezverbal.com/): episódios sobre história e política internacional
 * [**SpaceToday**](https://www.youtube.com/channel/UC_Fk7hHbl7vv_7K8tYqJd5A): conteúdos focados na divulgação da astronomia
+* [**37 Graus**](https://37grauspodcast.com/): histórias reais contadas com um pé na ciência
+* [**Alô, Ciência?**](https://alociencia.com.br/): podcasts de temas científicos transversais
 
 ### Mídias não convencionais
 
